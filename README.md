@@ -1,11 +1,9 @@
-<h1 align="left">Olá, sou o Mikaias Santos</h1>
+<h1 align="left">Olá!👋</h1>
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=mikaiassantos&label=Profile%20views&color=0e75b6&style=flat" alt="mikaiassantos" /> 
 </p>
 
-<h3 align="left">Apaixonado por Tecnologia e Inovação</h3>
-
-<h3 align="left">Estudante universitário de Análise e Desenvolvimento de Sistemas pela  <a href="https://faculdadesenacpe.edu.br/" target="_blank">Faculdade Senac de Pernambuco.</a> Entusiasta em desenvolvimento Full-stack, comprometido em criar experiências digitais exclusivas através de uma combinação de habilidades técnicas sólidas e uma abordagem criativa para resolver problemas.</h3>
+<h3 align="left">Meu nome é Mikaias Santos - Estudante universitário de Análise e Desenvolvimento de Sistemas pela  <a href="https://faculdadesenacpe.edu.br/" target="_blank">Faculdade Senac de Pernambuco.</a> Entusiasta em desenvolvimento Full-stack, comprometido em criar experiências digitais exclusivas através de uma combinação de habilidades técnicas sólidas e uma abordagem criativa para resolver problemas.</h3>
 
 <h3 align="left">Ferramentas & Linguagens</h3>
 <p align="left">
