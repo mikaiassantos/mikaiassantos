@@ -22,9 +22,9 @@
     <a href="mailto:mikaiassantos08@gmail.com">
         <img alt="Email" src="https://img.shields.io/badge/Email-mikaiassantos28@gmail.com-blue?style=flat&logo=gmail">
     </a>
-     <a href="mailto:mikaiassantos_">
-        <img alt="Instagram" src="https://img.shields.io/badge/Instagram-mikaiassantos_-blue?style=flat&logo=instagram">
-    </a>
+    <a href="https://www.instagram.com/mikaiassantos_" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-mikaiassantos_-blue?style=flat&logo=instagram">
+</a>
 </p>
 
 
