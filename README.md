@@ -11,8 +11,7 @@
     <code> <img src="https://skillicons.dev/icons?i=figma,html,css,javascript,react,nodejs,bootstrap,python,mysql,git,github"/> </code>
     </a>
 </p>
-
-
+<hr>
 
 <h3 align="left">Contatos:</h3>
 <p align="left">
@@ -26,6 +25,7 @@
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-mikaiassantos_-blue?style=flat&logo=instagram">
 </a>
 </p>
+
 
 
 
